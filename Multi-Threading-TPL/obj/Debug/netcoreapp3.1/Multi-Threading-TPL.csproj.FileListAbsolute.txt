@@ -1,0 +1,14 @@
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.exe
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.deps.json
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.runtimeconfig.json
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.runtimeconfig.dev.json
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.dll
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\bin\Debug\netcoreapp3.1\Multi-Threading-TPL.pdb
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.AssemblyInfoInputs.cache
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.AssemblyInfo.cs
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.csproj.CoreCompileInputs.cache
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.sourcelink.json
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.dll
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.pdb
+C:\Users\vaish\source\repos\Multi-Threading-TPL\Multi-Threading-TPL\obj\Debug\netcoreapp3.1\Multi-Threading-TPL.genruntimeconfig.cache
